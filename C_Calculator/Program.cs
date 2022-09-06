@@ -60,7 +60,7 @@ namespace C_Calculator
                         }
                         break;
                     default:
-                        Console.WriteLine(" WRONG INPUT");
+                        Console.WriteLine(" WRONG INPUT , Try again");
                         break;
                 }
                 Console.WriteLine("Do you want to continue useing the calculator? : (Y , N) :");
